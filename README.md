@@ -1,1 +1,2 @@
-# personal-web
+# My personal web
+* minimalist style
